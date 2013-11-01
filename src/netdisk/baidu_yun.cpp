@@ -317,6 +317,9 @@ MyErrorCode BaiduYun::MoveDir(const std::string strPath, const std::string strNe
     //      access_token=
     //      from=
     //      to=
+	
+	
+	//test git commit
 
     return MoveFile(strPath, strNewPath);
 }
